@@ -1,5 +1,5 @@
 | 搜索条件 | 使用方法 | 备注 |
-| :-- | :--: |
+| :-- | :--: | :--: |
 | location: | location:china | 匹配填写的地址在china的开发者 |
 | language: | language:python | 匹配开发语言为python的项目 |
 | followers: | followers:>=1000 | 匹配拥有超过1000名关注着的项目 |
